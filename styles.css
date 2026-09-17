@@ -1,22 +1,22 @@
 body {
-  background-color: #2E3440;
+  background-color: #95A888;
   font-family: Arial, sans-serif;
 }
 
 .topic-section {
-  color: #ECEFF4;
+  color: #EBEBE1;
   font-size: 18px;
   padding: 10px;
   margin: 15px;
-  border: 2px solid #88C0D0;
+  border: 2px solid #4A4656;
 }
 
 #main-heading {
-  color: #A3BE8C;
+  color: #592D26;
 }
 
 a {
-  color: #EBCB8B;
+  color: #343F38;
 }
 
 a:hover {

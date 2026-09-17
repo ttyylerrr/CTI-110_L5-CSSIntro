@@ -1,0 +1,28 @@
+body {
+  background-color: #2E3440;
+  font-family: Arial, sans-serif;
+}
+
+.topic-section {
+  color: #ECEFF4;
+  font-size: 18px;
+  padding: 10px;
+  margin: 15px;
+  border: 2px solid #88C0D0;
+}
+
+#main-heading {
+  color: #A3BE8C;
+}
+
+a {
+  color: #EBCB8B;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+a:visited {
+  color: #B48EAD;
+}

@@ -12,6 +12,22 @@ body {
 }
 
 .overview {
+  color: #EBEBE1;
+  font-size: 18px;
+  padding: 10px;
+  margin: 15px;
+  border: 2px solid #4A4656;
+}
+
+.cookielore {
+  color: #EBEBE1;
+  font-size: 18px;
+  padding: 10px;
+  margin: 15px;
+  border: 2px solid #4A4656;
+}
+
+#cookiescription {
   color: #592D26;
 }
 
